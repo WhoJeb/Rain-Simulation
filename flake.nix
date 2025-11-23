@@ -24,4 +24,4 @@
 }
 
 # To use run:
-# > nix develop
+# > nix develop -c zsh
