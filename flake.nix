@@ -16,7 +16,6 @@
 
       # Commands to run everytime the shell is activated
       shellHook = ''
-        zsh
         echo "Welcome"
         # git add -A
       '';
