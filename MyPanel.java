@@ -36,7 +36,7 @@ public class MyPanel extends JPanel implements ActionListener {
   MyPanel() {
     this.setPreferredSize(new Dimension(PANEL_WIDTH, PANEL_HEIGHT));
     this.setBackground(Color.black);
-    // background = new ImageIcon("res/bg.jpg").getImage();
+    // background = new ImageIcon("res/bg.jpg").getImage(); // Feel Free to change to whatever you like
 
     // initialize raindrops with random positions and speeds
     for (int i = 0; i < DROP_COUNT; i++) {
